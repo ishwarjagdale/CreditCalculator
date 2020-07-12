@@ -6,7 +6,7 @@ https://hyperskill.org/projects/90
 
 ## Syntax
 ```
-credit_calc.py
+creditcalc.py
 ```
 
 ## Stages
